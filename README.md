@@ -114,6 +114,17 @@ La propuesta transforma los movimientos de músculos del cuello y cara en una in
 | **Diseño de póster** | Diagramación visual de la problemática y resultados. | Hito S16 (10/jul)|
 | **Preparación de pitch** | Creación de diapositivas y ensayo para exposiciones. | Hito S16 (10/jul)|
 
+## Adquisición de datos
+### Objetivos:
+Comparar Sí con sonido vs Sí articulado.
+Comparar No con sonido vs No articulado.
+Analizar Ingrid y Renzo individualmente.
+Realizar comparación global entre sujetos.
+Extraer RMS, MAV, iEMG, ZC, Frecuencia Media, Kurtosis y Skewness.
+### Descripción de los canales de Bitalino:
+
+### Datos obtenidos
+
 ## Referencias
 [1] J. T. Heaton et al., “Development of a Wireless Electromyographically Controlled Electrolarynx Voice Prosthesis,” 2022. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC8981260/) 
 
