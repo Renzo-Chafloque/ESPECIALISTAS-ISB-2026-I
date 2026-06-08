@@ -21,4 +21,7 @@ Extraer RMS, MAV, iEMG, ZC, Frecuencia Media, Kurtosis y Skewness.
 
 ### Datos obtenidos:
 #### Link de drive: [Datos](https://drive.google.com/drive/folders/1JlIFO6wC8YqJ8CZkZpirEJ7wHnLoxatN?usp=sharing)
+#### Heatmap por usuario analizado:
+<img width="915" height="1010" alt="image" src="https://github.com/user-attachments/assets/ba46e4ee-20b2-4c56-9f96-517026abc72b" />
+
 https://github.com/user-attachments/assets/b5f4e3e6-e79d-4896-8fae-1adfdecc98fa
