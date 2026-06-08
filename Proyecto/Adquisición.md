@@ -13,5 +13,5 @@ Extraer RMS, MAV, iEMG, ZC, Frecuencia Media, Kurtosis y Skewness.
 #### Canal 5: Digastrico anterior izquierdo
 <img width="500" height="599" alt="canales" src="https://github.com/user-attachments/assets/8af85006-dfba-47a5-a16b-d2b98eccbc8c" />
 
-### Datos obtenidos
+### Datos obtenidos:
 [Datos](https://drive.google.com/drive/folders/1JlIFO6wC8YqJ8CZkZpirEJ7wHnLoxatN?usp=sharing)
