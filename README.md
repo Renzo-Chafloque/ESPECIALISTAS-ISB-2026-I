@@ -130,7 +130,7 @@ Extraer RMS, MAV, iEMG, ZC, Frecuencia Media, Kurtosis y Skewness.
 <img width="500" height="599" alt="canales" src="https://github.com/user-attachments/assets/8af85006-dfba-47a5-a16b-d2b98eccbc8c" />
 
 ### Datos obtenidos
-
+[Datos](https://drive.google.com/drive/folders/1JlIFO6wC8YqJ8CZkZpirEJ7wHnLoxatN?usp=sharing)
 ## Referencias
 [1] J. T. Heaton et al., “Development of a Wireless Electromyographically Controlled Electrolarynx Voice Prosthesis,” 2022. [Enlace](https://pmc.ncbi.nlm.nih.gov/articles/PMC8981260/) 
 
