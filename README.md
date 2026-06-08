@@ -122,7 +122,7 @@ Analizar Ingrid y Renzo individualmente.
 Realizar comparación global entre sujetos.
 Extraer RMS, MAV, iEMG, ZC, Frecuencia Media, Kurtosis y Skewness.
 ### Ubicación de los canales de Bitalino:
-#### Canal 1:GND
+#### Canal 1: GND (Clavícula izquierda)
 #### Canal 2: Estiloideo derecho
 #### Canal 3: Estiloideo izquierdo 
 #### Canal 4: Digastrico anterior derecho
