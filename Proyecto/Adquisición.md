@@ -13,8 +13,8 @@ Realizar comparación global entre sujetos.
 Extraer RMS, MAV, iEMG, ZC, Frecuencia Media, Kurtosis y Skewness.
 ### Ubicación de los canales de Bitalino:
 #### Canal 1: GND (Clavícula izquierda)
-#### Canal 2: Estiloideo derecho
-#### Canal 3: Estiloideo izquierdo 
+#### Canal 2: Estilohioideo derecho
+#### Canal 3: Estilohioideo izquierdo 
 #### Canal 4: Digastrico anterior derecho
 #### Canal 5: Digastrico anterior izquierdo
 <img width="500" height="599" alt="canales" src="https://github.com/user-attachments/assets/8af85006-dfba-47a5-a16b-d2b98eccbc8c" />
